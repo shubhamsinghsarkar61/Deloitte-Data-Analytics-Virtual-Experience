@@ -43,8 +43,7 @@ Classify each job role based on its Equality Score (-100 to +100) into:
 ### Work Completed
 - Added a new column named **"Equality Class"**.
 - Used the following Excel formula to classify the scores:
--   =IF(ABS(C2)<=10,"Fair",IF(ABS(C2)<=20,"Unfair","Highly Discriminative"))
--   
+-   =IF(ABS(C2)<=10,"Fair",IF(ABS(C2)<=20,"Unfair","Highly Discriminative"))  
 - Applied the formula to all rows in the dataset.
 - Submitted the updated Excel file.
 
