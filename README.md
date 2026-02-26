@@ -27,6 +27,8 @@ The project includes two tasks:
 - Daikibo Factory Seiko (Osaka) had the highest downtime.
 - LaserWelder had the highest downtime in that factory.
 
+- ![Tableau Dashboard](Task-1-Tableau/Final_Result_Submission_Task_1.png)
+
 ### Tool Used
 - Tableau Public
 
